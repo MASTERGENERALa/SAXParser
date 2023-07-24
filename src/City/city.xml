@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<city name="Kiev" size="big">
+    <street name="Main Street">
+        <house>Red House</house>
+        <house>Blue House</house>
+    </street>
+    <street name="Second Avenue">
+        <house>Green House</house>
+    </street>
+</city>
